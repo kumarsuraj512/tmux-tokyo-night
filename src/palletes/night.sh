@@ -33,6 +33,7 @@ declare -A PALLETE=(
   [red]="#f7768e"
   [red1]="#db4b4b"
   [white]="#ffffff"
+  [black]="#000000"
 )
 
 export PALLETE
